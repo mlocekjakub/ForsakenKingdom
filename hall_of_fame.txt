@@ -1,0 +1,7 @@
+Dominik|150
+Kuba|200
+Pola|400
+Filip|1000
+Dominik|3000
+Dawid|210
+Kuba|1100

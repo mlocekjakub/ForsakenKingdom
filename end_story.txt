@@ -1,0 +1,12 @@
+After the last cut of the sword, the beast fell to the floor.
+Every evil creature around the building disappered.
+KING: You saved the Kingdom, NAME
+KING: Today we celebrate your courageous act.
+KING: And after the feast you'll recevied a glorious reward.
+NAME: Can I ask what is the bounty?
+KING: I'll give you my daughter's hand.
+NAME: Princess Apolonia? I preffer money...
+KING: You know that you refuse the reward which all of men wouldn't refuse?
+NAME: I know, Your Highness, but I have already found the love
+KING: That's understandable NAME.
+And they all lived happily ever after.

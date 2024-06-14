@@ -1,0 +1,15 @@
+KING: Good to see you, NAME.
+NAME: You too, my King.
+KING: I need... No, our kingdom needs your help.
+NAME: I'll do everything for this land, Your Highness.
+NAME: Tell me, what do you need me to do?
+KING: There's a lonely tower on the edge of our lands. 
+King: Yoshi, the evil demon lives there. We don't know how he got there.
+KING: My subordinates: Peter, Kate and Adalbert told me, that a lot of weird creatures started to show in there.
+KING: Even ogres and animals started attacking us, without any reason.
+KING: Please, help us.
+NAME: I'll be honored to help you, Your Highness.
+KING: I ordered to lock those areas with evil creatures, in case of another attack.
+KING: Look for my subordinates, they have keys to the gates.
+KING: They will ask you some questions, just to be sure it is you.
+KING: Be well, NAME. Our kingdom's fate is in your hands.
